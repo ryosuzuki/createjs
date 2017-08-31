@@ -1,5 +1,5 @@
 # createjs
-⛩  Install createJS by npm
+⛩  Install createJS through npm
 
 ## Libs
  - [easeljs-0.8.2.combined.js](https://github.com/CreateJS/EaselJS)
@@ -9,9 +9,7 @@
 
 ## Install
 ```bash
-$ yarn add yuki-createjs
-# or
-$ npm install yuki-createjs --save
+$ npm install --save ryosuzuki/createjs
 ```
 
 ## Usage
