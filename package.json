@@ -1,0 +1,22 @@
+{
+  "name": "createjs",
+  "version": "0.0.1",
+  "description": "⛩ Install createJS by npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryosuzuki/createjs.git"
+  },
+  "author": "Ryo Suzuki<ryosuzk@googlemail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryosuzuki/createjs/issues"
+  },
+  "homepage": "https://github.com/ryosuzuki/createjs#readme"
+}
